@@ -8,7 +8,7 @@ SPDX-License-Identifier: MIT
 
 -->
 
-# Continous Integration
+# Continuous Integration
 
 The repository consists scripts and additional setups for maintaining the build agents for the Stanford BDHG and related projects.
 

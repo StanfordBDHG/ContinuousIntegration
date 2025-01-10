@@ -81,7 +81,7 @@ rm -f AppleWWDRCAG3.cer
 # 7. Install additional build tools
 brew install swiftlint
 brew install xcbeautify
-brew install peripheryapp/periphery/periphery
+brew install periphery
 
 
 # 8. Enable homebrew autoupdate
